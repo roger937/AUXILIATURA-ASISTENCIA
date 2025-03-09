@@ -23,9 +23,9 @@ print(f"la division es : {division}")
 
 # ejercicio 2: saber si un numero es par o impar
 
-num= int(input("Introduce un número: "))
+num= int(input("Introduce un numero: "))
 
 if num % 2 == 0:
-    print(f"El número {num} es par.")
+    print(f"El numero {num} es par.")
 else:
-    print(f"El número {num} es impar.")
+    print(f"El numero {num} es impar.")
